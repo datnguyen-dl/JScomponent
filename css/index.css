@@ -1,0 +1,22 @@
+.myJs_TABLE_wrapper .myJs_TABLE .myJs_TD {
+  padding: 10px;
+  word-break: break-all;
+  border: 1px solid red;
+}
+
+.myJs_TABLE_wrapper .myJs_TABLE {
+  width: 100%;
+}
+
+.myJs_TABLE_wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.myJs_TABLE_wrapper .myJs_TABLE .myJs_THEAD {
+  /* position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  display: table-caption; */
+  background-color: rgb(156, 156, 156);
+}
